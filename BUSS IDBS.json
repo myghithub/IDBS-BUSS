@@ -1,0 +1,317 @@
+{
+   "pc": "com.kalonghideung.liveryidbsbuss",
+   "kang_zayvius": [
+       {
+         "id": "1",
+         "tittle": "Melody",
+         "date": "2021-04-10",
+         "link_file": "https://archive.org/download/minecraft_202104/melody.zip",
+         "format_file":"zip",
+         "images": "https://archive.org/download/minecraft_202104/melody.png"
+       },
+       {
+        "id": "2",
+        "tittle": "Medan Jaya",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/medan%20jaya.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/medan%20jaya.png"
+      },
+       {
+          "id": "3",
+          "tittle": "Maya Sari",
+          "date": "2021-04-10",
+          "link_file": "https://archive.org/download/minecraft_202104/mayasari.zip",
+          "format_file":"zip",
+          "images": "https://archive.org/download/minecraft_202104/mayasari.png"
+        },
+       {
+        "id": "4",
+        "tittle": "Limbersa",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/limbersa.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/limbersa.png"
+      },
+      {
+        "id": "5",
+        "tittle": "Laju Prima",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/laju%20prima.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/laju%20prima.png"
+      },
+      {
+        "id": "6",
+        "tittle": "Kurnia",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/kurnia.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/kurnia.png"
+      },
+      {
+        "id": "7",
+        "tittle": "Kramat Jati",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/kramat%20jaati.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/kramat%20jaati.png"
+      },
+      {
+        "id": "8",
+        "tittle": "Karisma",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/karisma.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/karisma.png"
+      },
+      {
+        "id": "9",
+        "tittle": "Jaya Utama",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/jaya%20utama.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/jaya%20utama.png"
+      },
+      {
+        "id": "10",
+        "tittle": "Buss Intra",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/intra.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/intra.png"
+      },
+      {
+        "id": "11",
+        "tittle": "Haryanto",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/haryanto.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/haryanto.png"
+      },
+      {
+        "id": "12",
+        "tittle": "Harapan Indah",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/harapan%20indah.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/harapan%20indah.png"
+      },
+      {
+        "id": "13",
+        "tittle": "GMS",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/gms.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/gms.png"
+      },
+      {
+        "id": "14",
+        "tittle": "GD Bali",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/gd%20bali.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/gd%20bali.png"
+      },
+      {
+        "id": "15",
+        "tittle": "Garuda Mas",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/garuda%20mas.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/garuda%20mas.png"
+      },
+      {
+        "id": "16",
+        "tittle": "Gapuraning Rahayu",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/gapuraning%20rahayu.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/gapuraning%20rahayu.png"
+      },
+      {
+        "id": "17",
+        "tittle": "Gajah Mungkur",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/gajah%20mungkur.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/gajah%20mungkur.png"
+      },
+      {
+        "id": "18",
+        "tittle": "Doraemon",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/dora%20emon%20hello.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/dora%20emon%20hello.png"
+      },
+      {
+        "id": "19",
+        "tittle": "Do'a Ibu",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/do%27a%20ibu.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/do%27a%20ibu.png"
+      },
+      {
+        "id": "20",
+        "tittle": "Buss Mai",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/buss%20mai.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/buss%20mai.png"
+      },
+      {
+        "id": "21",
+        "tittle": "Bimo",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/bimo.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/bimo.png"
+      },
+      {
+        "id": "22",
+        "tittle": "Battle Ground",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/battlegrounds.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/battlegrounds.png"
+      },
+      {
+        "id": "23",
+        "tittle": "Bali United",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/bali%20united.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/bali%20united.png"
+      },
+      {
+        "id": "24",
+        "tittle": "Arema",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/arema.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/arema.png"
+      },
+      {
+        "id": "25",
+        "tittle": "A.O.V",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/aov.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/aov.png"
+      },
+      {
+        "id": "26",
+        "tittle": "Akas",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/akas.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/akas.png"
+      },
+      {
+        "id": "27",
+        "tittle": "Agam Tugu Jaya",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/agam%20tugu%20jaya.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/agam%20tugu%20jaya.png"
+      },
+      {
+        "id": "28",
+        "tittle": "MGI",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/mgi.zip",
+        "format_file":"https://archive.org/download/minecraft_202104/mgi.png",
+        "images": ""
+      },
+      {
+        "id": "29",
+        "tittle": "Minecraft",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/minecraft.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/minecraft.png"
+      },
+      {
+        "id": "30",
+        "tittle": "Mobile Legend",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/ml.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/ml.png"
+      },
+      {
+        "id": "31",
+        "tittle": "Nusantara",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/nusantara.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/nusantara.png"
+      },
+      {
+        "id": "32",
+        "tittle": "Persib",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/persib.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/persib.png"
+      },
+      {
+        "id": "33",
+        "tittle": "Pmtoh",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/pmtoh.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/pmtoh.png"
+      },
+      {
+        "id": "34",
+        "tittle": "Santoso",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/santoso.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/santoso.png"
+      },
+      {
+        "id": "35",
+        "tittle": "Shantika",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/shantika.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/shantika.png"
+      },
+      {
+        "id": "36",
+        "tittle": "Siba Surya",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/siba%20surya.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/siba%20surya.png"
+      },
+      {
+        "id": "37",
+        "tittle": "Subur Jaya",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/subur%20jaya.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/subur%20jaya.png"
+      },
+      {
+        "id": "38",
+        "tittle": "Sumber Alam",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/sumber%20alam.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/sumber%20alam.png"
+      },
+      {
+        "id": "39",
+        "tittle": "Wahyu Bersaudara",
+        "date": "2021-04-10",
+        "link_file": "https://archive.org/download/minecraft_202104/wahyu%20bersaudara.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/minecraft_202104/wahyu%20bersaudara.png"
+      }
+   ]
+}
